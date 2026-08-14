@@ -5,42 +5,42 @@ The dashboard provides an interactive view of key HR metrics such as employee co
 
 🎯 Project Objectives
 
-•Analyze employee attrition and workforce trends
+-Analyze employee attrition and workforce trends
 
-•Understand employee distribution across departments and job roles
+-Understand employee distribution across departments and job roles
 
-•Analyze employee demographics
+-Analyze employee demographics
 
-•Track key HR performance indicators
+-Track key HR performance indicators
 
-•Create an interactive and easy-to-understand HR dashboard
+-Create an interactive and easy-to-understand HR dashboard
 
 🛠️ Tools & Technologies
 
-•Microsoft Excel
+-Microsoft Excel
 
-•Pivot Tables
+-Pivot Tables
 
-•Pivot Charts
+-Pivot Charts
 
-•Slicers
+-Slicers
 
-•Data Cleaning
+-Data Cleaning
 
-•Data Analysis
+-Data Analysis
 
-•Dashboard Design
+-Dashboard Design
 
 📌 Key Insights
 
-•Employee attrition analysis
+-Employee attrition analysis
 
-•Department-wise employee distribution
+-Department-wise employee distribution
 
-•Job role analysis
+-Job role analysis
 
-•Employee satisfaction trends
+-Employee satisfaction trends
 
-•Salary and experience analysis
+-Salary and experience analysis
 
-•Workforce demographics
+-Workforce demographics
